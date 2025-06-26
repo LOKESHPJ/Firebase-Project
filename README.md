@@ -72,6 +72,10 @@ To deploy your project to Firebase Hosting and Functions:
 firebase deploy
 ```
 
+# Output:
+
+https://github.com/user-attachments/assets/07f2cbc8-e3ce-432a-9fbe-8f48a2d62ea8
+
 ## Contributing
 
 Contributions, issues, and feature requests are welcome!  
